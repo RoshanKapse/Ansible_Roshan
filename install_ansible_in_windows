@@ -1,0 +1,5 @@
+In windows we cannot install ansible as there is no exe file for windows.
+ To install ansible need to install WSL first.
+ After installation of WSL. Go to microsoft store and install image of Debian or Ubuntu.
+ then use command "sudo apt-get install ansible".
+ To check version "ansible --version"
